@@ -59,6 +59,8 @@ put lgipdb01.cbl lgipdb01
 put lgipol01.cbl lgipol01
 put lgipvs01.cbl lgipvs01
 put lgsetup.cbl  lgsetup
+put lgsecv01.cbl lgsecv01
+put lgsecv02.cbl lgsecv02
 put lgstsq.cbl   lgstsq
 put lgtestc1.cbl lgtestc1
 put lgtestp1.cbl lgtestp1
@@ -89,7 +91,7 @@ put linkparm.txt linkparm
 dir
 ```
 
-The final command should result in a listing of the partitioned data set and should contain all 46 files.
+The final command should result in a listing of the partitioned data set and should contain all 48 files.
 
 ## Manual data set allocation and file transfer
 
